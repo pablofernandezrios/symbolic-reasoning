@@ -1,5 +1,9 @@
 # symbolic-reasoning
 
+> **Note:** this repository is a fork of work developed as a pair with Yare Brea Espinosa
+> (ASP for Stitches, Prolog for Boolean minimisation). Development was done locally and
+> jointly. Original repo: https://github.com/YareBE/symbolic-reasoning
+
 Two declarative solvers: a Stitches puzzle solver written in Answer Set Programming, and a
 Boolean formula minimiser written in Prolog that goes from a propositional formula to a
 minimal disjunctive normal form via semantic tableaux and Quine–McCluskey.
